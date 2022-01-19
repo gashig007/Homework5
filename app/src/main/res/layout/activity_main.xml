@@ -61,8 +61,7 @@
         android:layout_marginBottom="50dp"
         app:layout_constraintBottom_toTopOf="@id/ic_drawable"
         android:backgroundTint="#57D6E6"
-        android:background="@drawable/krugliye_ugli"
-        />
+        android:background="@drawable/krugliye_ugli" />
 
 
     <ImageView
